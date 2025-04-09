@@ -2,5 +2,5 @@
     "name": "Hide Items",
     "subtitle": "Hides all items",
     "description": "My first module, its not much but it's mine",
-    "rs2fPath": "./aFilter.rs2f"
+    "rs2fPath": "aFilter.rs2f"
 }

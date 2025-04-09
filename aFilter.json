@@ -1,14 +1,5 @@
 {
-    "name": "AFilter",
-    "subtitle": "Filter for OSRS item drops",
-    "description": "Created by i Adrian",
-    "rs2fPath": "./aFilter.rs2f",
-    "inputs": [
-        {
-            "type": "boolean",
-            "macroName": "VAR_SHOW_ITEMS",
-            "label": "Show Items",
-            "default": true
-        }
-    ]
+    "name": "aFilter",
+    "description": "aFilter created by i Adrian for Loot Filters Plugin on OSRS RuneLite.",
+    "modules": []
 }
